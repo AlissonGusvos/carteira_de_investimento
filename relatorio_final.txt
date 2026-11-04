@@ -1,0 +1,14 @@
+=== RELATORIO FINAL ===
+
+ATIVOS ORDENADOS POR RENTABILIDADE:
+1 - teste | Rentabilidade: 900.00%
+2 - PETR4 | Rentabilidade: 15.00%
+3 - PETR4 | Rentabilidade: 15.00%
+4 - CMIG4 | Rentabilidade: -5.00%
+
+Valor total da carteira: R$ 980.00
+Rentabilidade geral: 20.99%
+Lucro/prejuizo total: R$ 170.00
+
+IMPACTO SOCIAL - ODS 8.10:
+O simulador ajuda na inclusao financeira porque apresenta investimentos de forma simples e compara seus rendimentos. Assim, mais pessoas podem aprender sobre planejamento, riscos e possibilidades de guardar dinheiro, contribuindo para o acesso a servicos financeiros, como propoe a ODS 8.10 da ONU.
