@@ -3,7 +3,7 @@
 Projeto academico em linguagem C para cadastrar ativos, calcular valores e rentabilidade, ordenar a carteira, simular investimentos e gerar relatorio.
 
 ## Público-alvo
-Estudantes, pessoas interessadas em educação financeira e usuários
+Pessoas interessadas em educação financeira e usuários
 que desejam aprender sobre organização e acompanhamento de
 investimentos de forma simples e educativa.
 
