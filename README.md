@@ -2,6 +2,11 @@
 
 Projeto academico em linguagem C para cadastrar ativos, calcular valores e rentabilidade, ordenar a carteira, simular investimentos e gerar relatorio.
 
+## Público-alvo
+Estudantes, pessoas interessadas em educação financeira e usuários
+que desejam aprender sobre organização e acompanhamento de
+investimentos de forma simples e educativa.
+
 ## Funcionalidades
 - Cadastro e listagem de ativos.
 - Calculo do valor total, total investido e rentabilidade.
@@ -9,6 +14,18 @@ Projeto academico em linguagem C para cadastrar ativos, calcular valores e renta
 - Ordenacao por rentabilidade usando Bubble Sort.
 - Simulador de 12 meses para poupanca, Tesouro Selic e CDB.
 - Relatorio final com resumo e texto sobre a ODS 8.10.
+
+## Tecnologias utilizadas
+- Linguagem C.
+- Compilador GCC.
+- Biblioteca padrão da linguagem C.
+- Manipulação de arquivos TXT para armazenamento de dados.
+
+## Requisitos mínimos para execução
+- Sistema operacional Windows, Linux ou macOS.
+- Compilador GCC instalado.
+- Terminal ou prompt de comando.
+- Espaço em disco suficiente para armazenar o programa e os dados.
 
 ## Compilacao
 Na pasta principal do projeto, execute:
